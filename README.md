@@ -1,10 +1,12 @@
-# Guess My Number Game
+# 🔢 Guess My Number Game 👩🏽‍💻
 
 ## Overview
 
-"Guess My Number!" is a simple web-based game where players guess a secret number between 1 and 20. The player starts with a score of 20, and each incorrect guess reduces the score by 1. If the player guesses the number correctly, the game congratulates them and updates the high score. Players can restart the game at any time using the "Again!" button.
+"Guess My Number!" is a simple web-based game where players guess a secret number between 1 and 20. The player starts with a score of 20, and each incorrect guess reduces the score by 1. If the player guesses the number correctly, the game congratulates them and updates the high score. Players can restart the game anytime using the "Again!" button.
 
-## Features
+It is important to note that even though I coded the logic for this game myself using JavaScript, the template HTML and CSS starter was provided to me as part of my [Udemy Course](https://www.udemy.com/course/the-complete-javascript-course/) by [Jonas Sschmedtmann](https://www.udemy.com/user/jonasschmedtmann/).
+
+## 📃 Features
 
 - User-friendly interface with clear instructions.
 - Responsive design suitable for different screen sizes.
@@ -12,13 +14,13 @@
 - Persistent high score tracking across game sessions.
 - Easy-to-use reset functionality to start a new game.
 
-## Technologies Used
+## ⌨️ Technologies Used
 
 - **HTML5**: For structuring the web page.
 - **CSS3**: For styling the web page.
 - **JavaScript**: For adding interactivity and game logic.
 
-## How to Play
+## 🛝 How to Play
 
 1. Open the game in your web browser.
 2. Enter a guess between 1 and 20 in the input field.
@@ -27,7 +29,7 @@
 5. The game ends when you guess the correct number or your score reaches 0.
 6. Click the "Again!" button to restart the game.
 
-## Files in the Repository
+## 🗃️ Files in the Repository
 
 - `index.html`: The HTML file that structures the game.
 - `style.css`: The CSS file that styles the game.
